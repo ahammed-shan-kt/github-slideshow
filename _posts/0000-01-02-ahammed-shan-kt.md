@@ -2,5 +2,5 @@
 layout: slidee
 title: "Welcome to our second slide!"
 ---
-Your text
+my programme
 Use the left arrow to go back!
